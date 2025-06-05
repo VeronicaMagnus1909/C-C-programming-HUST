@@ -1,7 +1,11 @@
 # C-C-programming-HUST
 
 ### Book Library Management 📖
+# Why use Linked List instead of Array
+1. Dynamic Size
+2. No wasted space
 
+Drawbacks: More difficult to implement than Array 
 
 ![](image/Picture1.png)
 
